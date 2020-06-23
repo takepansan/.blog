@@ -7,28 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 20 Jun 2020 01:26:12 +0900</lastBuildDate>
     
 	<atom:link href="https://takepansan.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About me</title>
-      <link>https://takepansan.com/about/</link>
-      <pubDate>Sat, 20 Jun 2020 01:26:12 +0900</pubDate>
-      
-      <guid>https://takepansan.com/about/</guid>
-      <description>関西に住んでいる高校二年生です。</description>
-    </item>
-    
-    <item>
-      <title>はじめに　長文執筆の難しさ</title>
-      <link>https://takepansan.com/posts/my-first-post/</link>
-      <pubDate>Sat, 20 Jun 2020 00:24:57 +0900</pubDate>
-      
-      <guid>https://takepansan.com/posts/my-first-post/</guid>
-      <description>誰も見ないでしょうが、一月ほど前のブログブームに触発されて今更ブログを始めました。流行りに乗るのも格好がつかないと思ったので。とりあえず飽き</description>
-    </item>
     
   </channel>
 </rss>
